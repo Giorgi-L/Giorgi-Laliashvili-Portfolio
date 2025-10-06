@@ -13,3 +13,4 @@ Manual QA Tester Portfolio Showcase Testing Documentation
   2.
   -------------------------------------------------------------------------------------
 
+{ჩემი ლინკდინის პროფილი}(https://www.linkedin.com/in/giorgi-laliashvili-1bb5b627b/)
