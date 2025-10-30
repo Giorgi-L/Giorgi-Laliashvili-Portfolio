@@ -3,7 +3,6 @@
 # Clickup
 # Dev Tools
 # Wave
-# About-Me
 # Selenium
 # Postman
 # Swagger
